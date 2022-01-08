@@ -1,3 +1,4 @@
+```
 choco install choco-upgrade-all-at-startup -y
 choco install choco-upgrade-all-at --params "'/DAILY:yes /TIME:12:00 /ABORTTIME:02:00'" -y
 # https://chocolatey.org/packages/choco-upgrade-all-at
@@ -88,3 +89,4 @@ choco install liberica11jdk -y
 choco install openssl -y
 choco install git -y
 #choco install flutter -y
+```
