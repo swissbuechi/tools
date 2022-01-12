@@ -4,6 +4,7 @@ echo "deb [signed-by=/usr/share/keyrings/jetbrains-ppa-archive-keyring.gpg] http
 sudo apt update
 
 sudo apt install intellij-idea-ultimate
+#sudo apt install intellij-idea-community
 ```
 
 [More JetBrains Tools](https://github.com/JonasGroeger/jetbrains-ppa)
