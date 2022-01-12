@@ -20,7 +20,7 @@
 
 # System Engineering
 
-## Utils
+### Utils
 
 ```powershell
 choco install rufus -y 
@@ -28,14 +28,14 @@ choco install etcher -y
 choco install partitionwizard -y
 ```
 
-## File
+### File
 
 ```poweshell
 choco install filezilla -y
 choco install winscp -y
 ```
 
-## Network
+### Network
 
 ```powershell
 choco install nmap -y
@@ -46,7 +46,7 @@ choco install wireshark -y
 choco install fiddler -y
 ```
 
-## Remote Access
+### Remote Access
 
 ```powershell
 choco install royalts-v6 -y
@@ -56,7 +56,7 @@ choco install termius -y
 choco install openvpn -y
 ```
 
-## Powershell
+### Powershell
 
 ```powershell
 choco install azure-cli -y
@@ -64,13 +64,13 @@ choco install powershell-core -y
 choco install az.powershell -y
 ```
 
-## Backup
+### Backup
 
 ```powershell
 choco install veeam-agent -y
 ```
 
-## Monitoring
+### Monitoring
 
 ```powershell
 choco install zabbix-agent -y
@@ -78,7 +78,7 @@ choco install zabbix-agent -y
 
 # Development
 
-## IDEs
+### IDEs
 
 ```powershell
 choco install intellijidea-ultimate -y
@@ -90,14 +90,14 @@ choco install atom -y
 choco install vim -y
 ```
 
-## Tools
+### Tools
 
 ```powershell
 choco install openssl -y
 choco install git -y
 ```
 
-## Docker
+### Docker
 
 ```powershell
 choco install docker-desktop -y
@@ -105,7 +105,7 @@ choco install docker-compose -y
 choco install docker-cli -y
 ```
 
-## Java
+### Java
 
 ```powershell
 choco install maven -y
@@ -115,7 +115,7 @@ choco install liberica11jre -y
 choco install liberica11jrefull -y
 ```
 
-## SQL
+### SQL
 
 ```powershell
 choco install heidisql -y
@@ -124,7 +124,7 @@ choco install mysql.workbench -y
 
 # Productivity
 
-## Browser
+### Browser
 
 ```powershell
 choco install microsoft-edge -y
@@ -132,13 +132,13 @@ choco install googlechrome -y
 choco install firefox -y
 ```
 
-## Tools
+### Tools
 
 ```powershell
 choco install snagit -y
 ```
 
-## Password
+### Password
 
 ```powershell
 choco install keepass -y
@@ -147,7 +147,7 @@ choco install keepass-plugin-keetheme -y
 choco install bitwarden -y
 ````
 
-## Collaboration
+### Collaboration
 
 ```powershell
 choco install microsoft-teams.install -y #machine wide
@@ -156,33 +156,33 @@ choco install discord -y
 choco install slack -y
 ```
 
-## Cloud
+### Cloud
 
 ```powershell
 choco install onedrive -y
 choco install google-drive-file-stream -y
 ```
 
-## Office
+### Office
 
 ```powershell
 choco install office365business -y
 choco install onenote -y
 ```
 
-## PDF
+### PDF
 
 ```powershell
-`choco install adobereader -y`
+choco install adobereader -y
 ```
 
-## Diagram
+### Diagram
 
 ```powershell
 choco install drawio -y
 ```
 
-## Music
+### Music
 
 ```powershell
 choco install spotify -y
