@@ -2,6 +2,7 @@
 
 ## Remote Access
 
+- [FreeRDP](/linux/apt/freerdp.md)
 - [Teamviewer](/linux/apt/teamviewer.md)
 
 # Development
