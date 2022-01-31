@@ -5,6 +5,10 @@
 - [FreeRDP](/linux/apt/freerdp.md)
 - [Teamviewer](/linux/apt/teamviewer.md)
 
+## Remote Management
+
+- [Ansible](/linux/apt/ansible.md)
+
 # Development
 
 ## Version control
@@ -18,3 +22,9 @@
 ## Java
 
 - [Bellsoft Liberica OpenJDK](/linux/apt/bellsoft_lberica_openjdk.md)
+
+# Entertainment
+
+## Music
+
+- [Spotify](/linux/apt/spotify.md)
