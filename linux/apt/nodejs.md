@@ -5,4 +5,4 @@ Install node version manager:
 
 reopen shell and test with: `command -v nvm`
 
-install nodejs + npm: `vm install --lts`
+install nodejs + npm: `nvm install --lts`
