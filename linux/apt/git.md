@@ -1,5 +1,5 @@
 ```shell
-sudo apt install git libsecret-1-0 libsecret-1-dev
+sudo apt install git libsecret-1-0 libsecret-1-dev make gcc
 
 cd /usr/share/doc/git/contrib/credential/libsecret
 sudo make
