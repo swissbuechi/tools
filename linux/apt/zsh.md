@@ -2,9 +2,16 @@
 sudo apt install zsh
 ```
 
+Font: `DroidSansMono Nerd Font`
+
+https://www.nerdfonts.com/font-downloads
+
+Install font and select in terminal
+
 ```shell
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
+
 1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
 
     ```sh
