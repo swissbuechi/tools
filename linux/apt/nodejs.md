@@ -3,6 +3,9 @@ Install node version manager:
 
 <https://github.com/nvm-sh/nvm>
 
+add `nvm` to path: `nano ~/.zshrc`
+add `source ~/.nvm/nvm.sh` on top of the file
+
 reopen shell and test with: `command -v nvm`
 
 install nodejs + npm: `nvm install --lts`
