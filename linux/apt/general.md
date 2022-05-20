@@ -5,3 +5,6 @@ sudo apt-get install chrome-gnome-shell
 ```
 
 HTTP Proxy: <https://httptoolkit.tech>
+
+.chm Viewer:
+`sudo apt-get install -y xchmL`
