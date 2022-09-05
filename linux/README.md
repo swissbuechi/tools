@@ -23,6 +23,7 @@
 
 - [FreeRDP](/linux/apt/freerdp.md)
 - [Teamviewer](/linux/apt/teamviewer.md)
+- [HP Anywhere](/linux/apt/hp_anywhere.md)
 
 ## Remote Management
 
