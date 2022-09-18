@@ -9,6 +9,9 @@ brew install --cask firefox
 brew install --cask microsoft-edge
 brew install --cask powershell
 brew install --cask microsoft-remote-desktop
+brew install --cask tunnelblick
+brew install --cask teamviewer
+brew install --cask spotify
 
 brew install ansible
 brew install docker
