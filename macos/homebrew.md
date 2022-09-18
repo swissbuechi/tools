@@ -17,6 +17,7 @@ brew install ansible
 brew install docker
 brew install docker-compose
 brew install git
+brew install --cask balenaetcher
 
 brew tap bell-sw/liberica
 brew install --cask liberica-jdk17-full
