@@ -1,0 +1,16 @@
+```shell
+brew install --cask http-toolkit
+brew install --cask bitwarden
+brew install --cask google-drive
+brew install --cask intellij-idea
+brew install --cask microsoft-teams
+brew install --cask visual-studio-code
+brew install --cask firefox
+brew install --cask microsoft-edge
+brew install --cask powershell
+
+brew install ansible
+brew install docker
+brew install docker-compose
+brew install git
+```

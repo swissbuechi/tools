@@ -6,3 +6,7 @@
 # Linux
 
 - [APT Repositories](/linux/apt)
+
+# macOS
+
+- [Homebrew](/macos/homebrew.md)
