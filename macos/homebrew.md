@@ -8,6 +8,7 @@ brew install --cask visual-studio-code
 brew install --cask firefox
 brew install --cask microsoft-edge
 brew install --cask powershell
+brew install --cask microsoft-remote-desktop
 
 brew install ansible
 brew install docker
