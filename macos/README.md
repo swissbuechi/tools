@@ -9,14 +9,6 @@ brew tap homebrew/autoupdate
 brew autoupdate start --upgrade --cleanup
 ```
 
-
-# Remote
-`brew install --cask microsoft-remote-desktop`
-
-`brew install --cask teamviewer`
-
-`brew install --cask tunnelblick`
-
 ```shell
 brew install --cask forticlient-vpn
 open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
@@ -85,6 +77,14 @@ brew tap bell-sw/liberica
 `brew install --cask intellij-idea`
 
 # System Administration
+
+## Remote
+
+`brew install --cask microsoft-remote-desktop`
+
+`brew install --cask teamviewer`
+
+`brew install --cask tunnelblick`
 
 ## Automation
 
