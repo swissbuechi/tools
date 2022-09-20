@@ -24,7 +24,7 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 # Entertainment
 
-# Education
+## Education
 
 `brew install --cask anki`
 
