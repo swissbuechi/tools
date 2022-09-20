@@ -1,4 +1,7 @@
 ```shell
+brew tap homebrew/autoupdate
+brew autoupdate start --upgrade --cleanup
+
 brew install --cask http-toolkit
 brew install --cask bitwarden
 brew install --cask google-drive
@@ -15,6 +18,8 @@ brew install --cask spotify
 brew install --cask anki
 brew install --cask forticlient-vpn
 open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
+
+brew install --cask deepl
 
 brew install ansible
 brew install docker
