@@ -2,58 +2,58 @@
 
 ## Apps
 
-- [General Apps](/linux/apt/general.md)
+- [General Apps](./apt/general.md)
 
 ## Shell
 
-- [ZSH](/linux/apt/zsh.md)
+- [ZSH](./apt/zsh.md)
 
 ## Collaboration
 
-- [Microsoft Teams](/linux/apt/teams.md)
+- [Microsoft Teams](./apt/teams.md)
 
 # System Engineering
 
 ## Browser
 
-- [Microsoft Edge](/linux/apt/edge.md)
-- [Firefox](/linux/apt/firefox.md)
+- [Microsoft Edge](./apt/edge.md)
+- [Firefox](./apt/firefox.md)
 
 ## Remote Access
 
-- [FreeRDP](/linux/apt/freerdp.md)
-- [Teamviewer](/linux/apt/teamviewer.md)
-- [HP Anywhere](/linux/apt/hp_anywhere.md)
+- [FreeRDP](./apt/freerdp.md)
+- [Teamviewer](./apt/teamviewer.md)
+- [HP Anywhere](./apt/hp_anywhere.md)
 
 ## Remote Management
 
-- [Ansible](/linux/apt/ansible.md)
+- [Ansible](./apt/ansible.md)
 
 ## Image
 
-- [Balena Etcher](/linux/apt/etcher.md)
+- [Balena Etcher](./apt/etcher.md)
 
 # Development
 
 ## Version control
 
-- [Git](/linux/apt/git.md)
+- [Git](./apt/git.md)
 
 ## IDE
 
-- [InteliJ](/linux/apt/inteliJ.md)
-- [Visual Studio Code](/linux/apt/code.md)
+- [InteliJ](./apt/inteliJ.md)
+- [Visual Studio Code](./apt/code.md)
 
 ## Java
 
-- [Bellsoft Liberica OpenJDK](/linux/apt/bellsoft_lberica_openjdk.md)
+- [Bellsoft Liberica OpenJDK](./apt/bellsoft_lberica_openjdk.md)
 
 ## Node.js
 
-- [Node Version Manager](/linux/apt/nodejs.md)
+- [Node Version Manager](./apt/nodejs.md)
 
 # Entertainment
 
 ## Music
 
-- [Spotify](/linux/apt/spotify.md)
+- [Spotify](./apt/spotify.md)
