@@ -9,4 +9,4 @@
 
 # macOS
 
-- [Homebrew](/macos/homebrew.md)
+- [Homebrew](/macos/README.md)
