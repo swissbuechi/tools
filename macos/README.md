@@ -16,6 +16,10 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 # Entertainment
 
+## PDF
+
+`brew install --cask adobe-acrobat-reader`
+
 ## Education
 
 `brew install --cask anki`
