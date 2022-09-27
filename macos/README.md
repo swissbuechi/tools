@@ -14,6 +14,12 @@ brew install --cask forticlient-vpn
 open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 ```
 
+# Utils
+
+## Mouse
+
+[Scroll-Reserver](https://github.com/pilotmoon/Scroll-Reverser)
+
 # Entertainment
 
 ## PDF
