@@ -18,7 +18,13 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 ## Mouse
 
-[Scroll-Reserver](https://github.com/pilotmoon/Scroll-Reverser)
+`brew install --cask scroll-reverser`
+
+`brew install --cask discretescroll`
+
+## Battery
+
+`brew install --cask aldente`
 
 # Entertainment
 
