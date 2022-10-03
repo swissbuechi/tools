@@ -22,9 +22,17 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install --cask discretescroll`
 
+## Keyboard
+
+`brew tap homebrew/cask-drivers`
+
+`brew install logitech-g-hub`
+
 ## Dock
 
-https://jogruber.de/blog/how-to-speed-up-the-animations-of-a-hidden-macos-dock
+`defaults write com.apple.dock autohide-delay -float 0; killall Dock`
+
+`defaults write com.apple.dock autohide-time-modifier -float 0.5; killall Dock`
 
 ## Battery
 
