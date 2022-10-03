@@ -22,6 +22,10 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install --cask discretescroll`
 
+## Dock
+
+https://jogruber.de/blog/how-to-speed-up-the-animations-of-a-hidden-macos-dock
+
 ## Battery
 
 `brew install --cask aldente`
@@ -45,6 +49,8 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 ## Collaboration
 
 `brew install --cask microsoft-teams`
+
+`brew install --cask zoom`
 
 ## Browser
 
