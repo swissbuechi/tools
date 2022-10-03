@@ -30,6 +30,23 @@ https://jogruber.de/blog/how-to-speed-up-the-animations-of-a-hidden-macos-dock
 
 `brew install --cask aldente`
 
+## Font
+
+### Smooth fonts on 1080p external displays
+
+```bash
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
+defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
+```
+
+Restore defaults
+
+```bash
+defaults -currentHost delete -globalDomain AppleFontSmoothing
+defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
+```
+
+
 # Entertainment
 
 ## PDF
