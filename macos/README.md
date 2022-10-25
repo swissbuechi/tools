@@ -133,6 +133,8 @@ brew tap bell-sw/liberica
 
 `brew install --cask tunnelblick`
 
+`brew install wakeonlan`
+
 ## Automation
 
 `brew install ansible`
