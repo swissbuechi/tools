@@ -38,6 +38,10 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install --cask aldente`
 
+## Display
+
+`brew tap jakehilborn/jakehilborn && brew install displayplacer`
+
 ## Font
 
 ### Smooth fonts on 1080p external displays
