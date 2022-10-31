@@ -147,6 +147,8 @@ brew tap bell-sw/liberica
 
 `brew install --cask powershell`
 
+[ZSH](../linux/apt/zsh.md)
+
 ## Image
 
 `brew install --cask balenaetcher`

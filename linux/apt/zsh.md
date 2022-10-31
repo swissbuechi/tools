@@ -26,3 +26,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
         zsh-autosuggestions
     )
     ```
+   
+3. Theme
+
+`jreese`
