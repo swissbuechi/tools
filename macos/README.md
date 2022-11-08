@@ -42,6 +42,10 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew tap jakehilborn/jakehilborn && brew install displayplacer`
 
+## Window Management
+
+`brew install --cask rectangle`
+
 ## Font
 
 ### Smooth fonts on 1080p external displays
