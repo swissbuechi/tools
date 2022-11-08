@@ -98,6 +98,8 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 
 ## General
 
+`brew install --cask postman`
+
 `brew install --cask http-toolkit`
 
 `brew install git`
