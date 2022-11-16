@@ -115,6 +115,11 @@ choco install liberica11jre -y
 choco install liberica11jrefull -y
 ```
 
+### Python 3
+```powershell
+choco install python -y
+```
+
 ### SQL
 
 ```powershell
