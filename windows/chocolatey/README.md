@@ -144,7 +144,8 @@ choco install snagit -y
 choco install keepass -y
 choco install keepass-plugin-keeotp2 -y
 choco install keepass-plugin-keetheme -y
-choco install bitwarden -y
+choco install bitwarden-cli -ia "/allusers " -y
+choco install bitwarden -ia "/allusers " -y
 ````
 
 ### Collaboration
