@@ -20,7 +20,7 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install --cask scroll-reverser`
 
-`brew install --cask discretescroll`
+<s>`brew install --cask discretescroll`</s>
 
 ## Keyboard
 
@@ -37,6 +37,10 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 ## Battery
 
 `brew install --cask aldente`
+
+### Enable deep sleep mode
+
+`sudo pmset -a hibernatemode 25`
 
 ## Display
 
