@@ -50,6 +50,7 @@ choco install fiddler -y
 
 ```powershell
 choco install royalts-v6 -y
+choco install rdm -y
 choco install teamviewer -y
 choco install microsoft-windows-terminal -y
 choco install termius -y
