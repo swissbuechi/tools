@@ -24,6 +24,8 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 ## Keyboard
 
+`brew install --cask alt-tab`
+
 `brew tap homebrew/cask-drivers`
 
 `brew install logitech-g-hub`
