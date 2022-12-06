@@ -159,6 +159,8 @@ brew tap bell-sw/liberica
 
 `brew install --cask powershell`
 
+`brew install telnet`
+
 [ZSH](../linux/apt/zsh.md)
 
 ## Image
