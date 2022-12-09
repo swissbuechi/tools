@@ -54,6 +54,7 @@ choco install rdm -y
 choco install teamviewer -y
 choco install microsoft-windows-terminal -y
 choco install termius -y
+choco install bitvise-ssh-client -y
 choco install openvpn -y
 ```
 
