@@ -149,6 +149,8 @@ brew tap bell-sw/liberica
 
 ## Remote
 
+`brew install --cask remote-desktop-manager-free`
+
 `brew install --cask microsoft-remote-desktop`
 
 `brew install --cask teamviewer`
