@@ -32,9 +32,15 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 ## Dock
 
-`defaults write com.apple.dock autohide-delay -float 0; killall Dock`
+`defaults write com.apple.dock autohide-delay -float 0.1; killall Dock`
 
 `defaults write com.apple.dock autohide-time-modifier -float 0.5; killall Dock`
+
+Restore Defaults
+
+`defaults delete com.apple.dock autohide-delay; killall Dock`
+
+`defaults delete com.apple.dock autohide-time-modifier; killall Dock`
 
 ## Battery
 
