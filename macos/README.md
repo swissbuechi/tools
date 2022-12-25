@@ -30,6 +30,19 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install logitech-g-hub`
 
+
+### Fix sapped keys `<` and `§` on CH Layout
+
+`sudo plutil -convert xml1 /Library/Preferences/com.apple.keyboardtype.plist `
+
+`sudo nano /Library/Preferences/com.apple.keyboardtype.plist`
+
+- Change all `type` to `41`
+
+`sudo plutil -convert binary1 /Library/Preferences/com.apple.keyboardtype.plist`
+
+- Reboot
+
 ## Dock
 
 `defaults write com.apple.dock autohide-delay -float 0.1; killall Dock`
