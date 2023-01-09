@@ -20,6 +20,8 @@ open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
 
 `brew install --cask scroll-reverser`
 
+https://github.com/sbmpost/AutoRaise
+
 <s>`brew install --cask discretescroll`</s>
 
 ## Keyboard
