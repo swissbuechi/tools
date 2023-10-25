@@ -18,6 +18,7 @@
 
 - [Microsoft Edge](./apt/edge.md)
 - [Firefox](./apt/firefox.md)
+- [Chrome](./apt/chrome.md)
 
 ## Remote Access
 
