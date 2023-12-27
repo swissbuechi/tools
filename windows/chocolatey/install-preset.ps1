@@ -1,1 +1,0 @@
-#TODO: script to install default Apps for specific profiles (basic, full, dev, home)

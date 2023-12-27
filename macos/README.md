@@ -6,7 +6,7 @@
 
 ```shell
 brew tap homebrew/autoupdate
-brew autoupdate start --upgrade --cleanup
+brew autoupdate start --upgrade --cleanup --immediate --sudo --ac-only
 ```
 
 ```shell
@@ -63,11 +63,7 @@ Restore Defaults
 
 ### Enable deep sleep mode
 
-`sudo pmset -a hibernatemode 25`
-
-## Display
-
-`brew tap jakehilborn/jakehilborn && brew install displayplacer`
+[Sleep](./sleep.md)
 
 ## Window Management
 
@@ -164,7 +160,7 @@ brew tap bell-sw/liberica
 
 ## Remote
 
-`brew install --cask remote-desktop-manager-free`
+`brew install --cask remote-desktop-manager`
 
 `brew install --cask microsoft-remote-desktop`
 
