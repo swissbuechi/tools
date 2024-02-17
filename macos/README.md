@@ -9,9 +9,11 @@ brew tap homebrew/autoupdate
 brew autoupdate start --upgrade --cleanup --immediate --sudo --ac-only
 ```
 
+`nano .zshrc`
+
 ```shell
-brew install --cask forticlient-vpn
-open /opt/homebrew/Caskroom/forticlient-vpn/7.0/FortiClientUpdate.app
+export HOMEBREW_NO_AUTO_UPDATE="1"
+export HOMEBREW_CASK_OPTS="--no-quarantine"
 ```
 
 # Utils
