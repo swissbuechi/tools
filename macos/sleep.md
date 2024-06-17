@@ -34,7 +34,7 @@ sudo pmset -a ttyskeepawake 0 tcpkeepalive 0 womp 0 networkoversleep 0 proximity
 
 
 ## Settings
--  Disable all sharing in preferences
--  Disable Airdrop and continuity
--  Disable Notifications when the screen is locked
-ppkantorski/Airplane-Sleep: Disable wifi and bluetooth when closing your MacBook or putting it to sleep! (github.com)
+- Disable all sharing in preferences
+- Disable Airdrop and continuity
+- Disable Notifications when the screen is locked
+- ppkantorski/Airplane-Sleep: Disable wifi and bluetooth when closing your MacBook or putting it to sleep! (github.com)
