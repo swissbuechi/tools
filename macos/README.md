@@ -22,18 +22,17 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 `brew install --cask scroll-reverser`
 
-https://github.com/sbmpost/AutoRaise
+<s> https://github.com/sbmpost/AutoRaise </s>
 
-<s>`brew install --cask discretescroll`</s>
+`brew install --cask discretescroll`
 
 ## Keyboard
 
 `brew install --cask alt-tab`
 
-`brew tap homebrew/cask-drivers`
+<s>`brew tap homebrew/cask-drivers` </s>
 
-`brew install logitech-g-hub`
-
+<s>`brew install logitech-g-hub`</s>
 
 ### Fix sapped keys `<` and `§` on CH Layout
 
@@ -67,9 +66,11 @@ Restore Defaults
 
 [Sleep](./sleep.md)
 
-## Window Management
+ ## Window Management
 
-`brew install --cask rectangle`
+<s>`brew install --cask rectangle`</s>
+
+Obsolete since macOS 15...
 
 ## Font
 
@@ -175,6 +176,8 @@ brew tap bell-sw/liberica
 ## Automation
 
 `brew install ansible`
+
+`brew install terragrunt`
 
 ## CLI
 
