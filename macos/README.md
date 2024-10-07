@@ -52,11 +52,15 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 
 `defaults write com.apple.dock autohide-time-modifier -float 0.5; killall Dock`
 
+`defaults write com.apple.dock scroll-to-open -bool TRUE; killall Dock`
+
 Restore Defaults
 
 `defaults delete com.apple.dock autohide-delay; killall Dock`
 
 `defaults delete com.apple.dock autohide-time-modifier; killall Dock`
+
+`defaults write com.apple.dock scroll-to-open -bool FALSE; killall Dock`
 
 ## Battery
 
