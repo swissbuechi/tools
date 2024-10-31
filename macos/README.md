@@ -82,7 +82,7 @@ Obsolete since macOS 15...
 
 ```bash
 defaults write -g CGFontRenderingFontSmoothingDisabled -bool NO
-defaults -currentHost write -globalDomain AppleFontSmoothing -int 2
+defaults -currentHost write -globalDomain AppleFontSmoothing -int 4
 ```
 
 Restore defaults
