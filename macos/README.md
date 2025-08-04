@@ -68,9 +68,17 @@ Restore Defaults
 
  ## Window Management
 
-<s>`brew install --cask rectangle`</s>
+`brew install --cask alt-tab`
 
-Obsolete since macOS 15...
+Fix recording permissions
+
+Create `altTab.command` in `Applicaions`
+
+```Command
+screen -dmS AltTab /Applications/AltTab.app/Contents/MacOS/AltTab
+```
+
+Add to login items
 
 <!-- ## Font
 
