@@ -2,6 +2,12 @@
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
+## Backup
+
+`sudo tmutil startbackup`
+
+`caffeinate -s -m -i -t 14400`
+
 ## Update
 
 ```shell
