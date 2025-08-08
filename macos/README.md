@@ -153,6 +153,9 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 
 - Plain Text Editor
 - Greenshot
+  - Area screenshot: `F13`
+  - Destination: `Editor`
+  - Always copy to clipboard: `true`
 - Word
 - PowerPoint
 - Excel
@@ -325,6 +328,14 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 - More Gestures
 
 ## Customization
+
+### Control Panel
+
+- ProtonVPN
+- ProtonDrive
+- Wi-Fi
+- Battery
+- Greenshot
 
 ### Keep in Dock
 
