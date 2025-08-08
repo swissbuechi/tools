@@ -202,6 +202,13 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
   - Allow Handoff: `false`
 - AutoFill: `false`
 - Sharing: `false`
+- Time Machine
+  - Backup Frequency: `Manually`
+  - Excluded:
+    - ~/Downloads
+    - ~/Library/CloudStorage
+    - ~/Repos
+    - ~/Tmp
 
 ### Control Centre
 
