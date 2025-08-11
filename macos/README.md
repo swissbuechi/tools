@@ -49,7 +49,7 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 - Show in menu bar: `false`
 
 
-<s> https://github.com/sbmpost/AutoRaise </s>
+https://github.com/synappser/AutoFocus
 
 `brew install --cask discretescroll`
 
