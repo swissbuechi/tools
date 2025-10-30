@@ -167,6 +167,8 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 - Profiles:
   - Color: `000000`
   - Font: `SF Mono Regular 11`
+  - Keyboard
+    - Use Meta as Option key: `false`
 
 ## Finder
 
@@ -196,6 +198,8 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 ## Network
 
 - Firewall: `true`
+- DNS:
+  - Install Adguard DoH via: https://adguard-dns.io/en/public-dns.html
 
 ### General
 
