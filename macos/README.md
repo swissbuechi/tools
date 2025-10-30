@@ -130,14 +130,10 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 
 #### Apps
 
-- Plain Text Editor
 - Greenshot
   - Area screenshot: `F13`
   - Destination: `Editor`
   - Always copy to clipboard: `true`
-- Word
-- PowerPoint
-- Excel
 - Bitwarden
 
 ## Terminal
@@ -325,15 +321,13 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 
 - Finder
 - Settings
-- Chromium
+- Ungoogled-Chromium
 - Edge
+- Bitwarden
 - VS Code
 - Terminal
 - Joplin
-- Plain Text Editor
-- Preview
-- Mission Control
-- Launchpad
+- TextEdit
 
 ## Apps
 
