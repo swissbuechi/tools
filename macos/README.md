@@ -1,22 +1,12 @@
-# Installation
+# macOS default setup
+
+## Package Manager
+
+### Install Homebrew
 
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
-## Backup
-
-### System
-
-`sudo tmutil startbackup`
-
-`caffeinate -s -m -i -t 14400`
-
-### Homebrew
-
-`brew bundle dump`
-
-`mv Brewfile Library/CloudStorage/ProtonDrive*/Backup/`
-
-## Update
+#### Updates
 
 ```shell
 brew tap homebrew/autoupdate
@@ -48,9 +38,6 @@ export HOMEBREW_CASK_OPTS="--no-quarantine"
 - Start at Login: `true`
 - Show in menu bar: `false`
 
-
-https://github.com/synappser/AutoFocus
-
 `brew install --cask discretescroll`
 
 ## Keyboard
@@ -77,19 +64,11 @@ https://github.com/synappser/AutoFocus
 
 `defaults write com.apple.dock scroll-to-open -bool TRUE; killall Dock`
 
-### Restore Defaults
-
-`defaults delete com.apple.dock autohide-delay; killall Dock`
-
-`defaults delete com.apple.dock autohide-time-modifier; killall Dock`
-
-`defaults write com.apple.dock scroll-to-open -bool FALSE; killall Dock`
-
-### Enable deep sleep mode
+## Enable deep sleep mode
 
 [Sleep](./sleep.md)
 
- ## Window Management
+## Window Management
 
 `brew install --cask alt-tab`
 
@@ -159,6 +138,7 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 - Word
 - PowerPoint
 - Excel
+- Bitwarden
 
 ## Terminal
 
@@ -354,3 +334,37 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 - Preview
 - Mission Control
 - Launchpad
+
+## Apps
+
+### Bitwarden
+
+- Install via Store: https://apps.apple.com/ch/app/bitwarden/id1352778147?l=en-GB&mt=12
+- Settings
+  - Vault Security:
+    - Timeout: `On system lock`
+    - Unlock with Touch ID: `true`
+      - Ask for Touch ID on app start: `true`
+  - Preferences:
+    - Clear clipboard: `5 Minutes`
+  - App Settings:
+    - Enable SSH agent: `Always`
+- SSH
+  - `nano .zshrc`
+    - Add: `export SSH_AUTH_SOCK=/Users/raphi/Library/Containers/com.bitwarden.desktop/Data/.bitwarden-ssh-agent.sock`
+
+## Backup Commands
+
+Usefull commands to backup the system or installed application list
+
+### System
+
+`sudo tmutil startbackup`
+
+`caffeinate -s -m -i -t 14400`
+
+### Homebrew
+
+`brew bundle dump`
+
+`mv Brewfile Library/CloudStorage/ProtonDrive*/Backup/`
