@@ -278,10 +278,10 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
     - Move a space left: `Command` + `Alt` + `<--`
     - Move a space right: `Command` + `Alt` + `-->`
   - Function Keys: `true`
-  - Modifier Keys:
-    - Apple Internal Keyboard:
-      - Command Key = `Option`
-      - Option Key = `Command`
+  - ~~Modifier Keys:~~
+    - ~~Apple Internal Keyboard:~~
+      - ~~Command Key = `Option`~~
+      - ~~Option Key = `Command`~~
 - Input Sources:
   - `false`
   - Show inline predictive text: `true`
@@ -328,6 +328,9 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 - Terminal
 - Joplin
 - TextEdit
+- Preview
+- Anki
+- Skim
 
 ## Apps
 
