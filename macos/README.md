@@ -175,7 +175,7 @@ defaults write -g CGFontRenderingFontSmoothingDisabled -bool YES
 
 - Firewall: `true`
 - DNS:
-  - Install Adguard DoH via: https://adguard-dns.io/en/public-dns.html
+  - Install Mullvad DoH via: https://github.com/mullvad/encrypted-dns-profiles/blob/main/base/mullvad-encrypted-dns-https-base.mobileconfig
 
 ### General
 
